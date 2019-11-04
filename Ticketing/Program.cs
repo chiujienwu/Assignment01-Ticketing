@@ -45,7 +45,7 @@ namespace Ticketing
 
             // this assumes the existance of a file but does not automatically check for it
             // instead from the main menu, it prompts user
-            string file = "tickets.csv";
+            string file = "C:\\Users\\jerry\\source\\repos\\chiujienwu\\Assignment01-Ticketing\\Ticketing\\tickets.csv";
 
             // start of main menu
             string choice;
