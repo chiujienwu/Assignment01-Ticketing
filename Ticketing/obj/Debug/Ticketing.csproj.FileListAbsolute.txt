@@ -5,3 +5,9 @@ C:\Users\JerryChiu\source\repos\Ticketing\Ticketing\bin\Debug\Ticketing.exe
 C:\Users\JerryChiu\source\repos\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
 C:\Users\JerryChiu\source\repos\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 C:\Users\JerryChiu\source\repos\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\obj\Debug\Ticketing.csprojAssemblyReference.cache
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\Users\jerry\Source\Repos\chiujienwu\Assignment01-Ticketing\Ticketing\obj\Debug\Ticketing.pdb

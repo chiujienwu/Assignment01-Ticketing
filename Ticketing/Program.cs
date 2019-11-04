@@ -75,7 +75,7 @@ namespace Ticketing
 
                             // display to console array data from file
                             // array index: 0-TicketID, 1-Summary, 2-Status, 3-Priority, 4-Submitter, 5-Assigned, 6-Watching
-                            Console.WriteLine("TicketID: {0}, Summary: {1}, Summary: {2}, Summary: {3}, Summary: {4}, Summary: {5}, Summary: {6},", 
+                            Console.WriteLine("TicketID: {0}, Summary: {1}, Status: {2}, Priority: {3}, Submitter: {4}, Assigned: {5}, Watching: {6},", 
                                 arr[0], arr[1], arr[2], arr[3], arr[4], arr[5], arr[6]);
 
                             int readID = Convert.ToInt32(arr[0]);
